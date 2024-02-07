@@ -7,5 +7,8 @@
   -  Inventory Management System
 
 # Step 2: Learn GitHub
+    -   Commit
+    -   Updates
+    -   Repository
 
 # Step 3: Utilize various libraries
