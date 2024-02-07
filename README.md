@@ -1,4 +1,4 @@
-# JavaProjects
+# To Dos
 
 # Step 1: Learn Java through projects
   -  To-Do list
